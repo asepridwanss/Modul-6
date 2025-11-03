@@ -42,7 +42,18 @@ Tuliskan kata pengantar dan ucapan terima kasih.
 > Diisi oleh Mahasiswa 9–14
 
 ## 1.1 Latar Belakang  
-...
+
+Ditulis oleh: Andhika Maulana Shiddiq (301220024)
+
+Perkembangan teknologi informasi yang pesat telah mengubah cara individu dan tim bekerja dalam mengembangkan perangkat lunak. Salah satu perubahan signifikan adalah munculnya platform kolaboratif yang memungkinkan pengembang dari berbagai lokasi untuk bekerja pada satu proyek secara bersama-sama. Dalam konteks ini, GitHub menjadi salah satu platform yang paling populer dan banyak digunakan di seluruh dunia karena mendukung sistem kontrol versi Git yang memungkinkan pengelolaan kode secara terstruktur, transparan, dan efisien.
+
+GitHub tidak hanya berfungsi sebagai tempat penyimpanan kode sumber (repository), tetapi juga sebagai wadah kolaborasi pengembang melalui berbagai fitur yang mendukung alur kerja modern seperti fork, clone, dan pull request. Fitur-fitur tersebut memungkinkan setiap kontributor untuk menyalin proyek utama, melakukan perubahan pada versi lokal, serta mengusulkan pembaruan kembali ke proyek asal dengan mekanisme yang terkontrol. Dengan demikian, GitHub menjadi sarana yang efektif dalam meningkatkan produktivitas dan kualitas hasil pengembangan perangkat lunak, terutama dalam proyek berskala besar dan berbasis komunitas.
+
+Dalam lingkungan pendidikan dan profesional, kemampuan untuk berkolaborasi menggunakan GitHub telah menjadi keterampilan penting. Mahasiswa, misalnya, dapat bekerja sama dalam pembuatan proyek perangkat lunak tanpa harus berada di lokasi yang sama. Setiap perubahan dapat dilacak, dievaluasi, dan diintegrasikan secara sistematis. Hal ini menciptakan lingkungan belajar yang kolaboratif, sekaligus meniru praktik industri dalam pengembangan perangkat lunak modern.
+
+Namun, meskipun GitHub menyediakan berbagai fitur kolaborasi, banyak pengguna pemula yang belum memahami secara menyeluruh cara kerja proses fork, clone, dan pull request dalam konteks kolaborasi proyek. Pemahaman yang terbatas ini sering menyebabkan kesalahan dalam pengelolaan versi, konflik kode, maupun tumpang tindih kontribusi antaranggota tim. Oleh karena itu, dibutuhkan pemahaman yang lebih mendalam serta panduan yang jelas mengenai penerapan alur kerja kolaboratif menggunakan fitur-fitur utama GitHub tersebut.
+
+Berdasarkan latar belakang tersebut, penelitian ini bertujuan untuk membahas konsep dan implementasi kolaborasi proyek menggunakan GitHub dengan fokus pada mekanisme fork, clone, dan pull request, serta bagaimana ketiga proses tersebut dapat mendukung pengelolaan proyek yang efisien, terstruktur, dan mudah dipelajari oleh pengguna baru.
 
 ## 1.2 Rumusan Masalah  
 ...
