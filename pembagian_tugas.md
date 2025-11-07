@@ -33,7 +33,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 9 | Andhika Maulana Shiddiq | 301220024 | Bab I - Latar Belakang | Menjelaskan konteks penelitian | Disetujui ✅ |
 | 10 |  |  | Bab I - Rumusan Masalah | Menulis pertanyaan penelitian | Diajukan |
 | 11 |  |  | Bab I - Batasan Masalah | Menjelaskan batas ruang lingkup | Diajukan |
-| 12 | Tacsha Aulia Nurmayanti Resmana | 301220012 | Bab I - Tujuan Penelitian | Menjelaskan tujuan utama | Diajukan |
+| 12 |Tacsha Aulia Nurmayanti Resmana|301220012| Bab I - Tujuan Penelitian | Menjelaskan tujuan utama | Diajukan |
 | 13 |  |  | Bab I - Metodologi Penelitian | Ringkasan metode dan pendekatan penelitian | Diajukan |
 | 14 |  |  | Bab I - Sistematika Penulisan | Menyusun struktur bab skripsi | Diajukan |
 | 15 |  |  | Bab II - Landasan Teori (1) | Menulis teori dasar terkait topik | Diajukan |
