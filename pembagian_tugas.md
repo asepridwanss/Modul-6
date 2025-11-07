@@ -56,7 +56,6 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 32 |  |  | Bab IV - Analisis Data | Analisis struktur data sistem | Diajukan |
 | 33 |  |  | Bab IV - Analisis Biaya | Rencana biaya implementasi | Diajukan |
 | 34 |  |  | Bab IV - UML Diagram | Use Case, Activity, Class Diagram | Diajukan |
-| 35 |  |  | Bab IV - Struktur Basis Data | Desain tabel & relasi | Diajukan |
 | 36 |  |  | Bab IV - Desain Antarmuka | Rancangan tampilan aplikasi | Diajukan |
 | 37 |  |  | Bab V - Implementasi Sistem | Langkah-langkah implementasi | Diajukan |
 | 38 |  |  | Bab V - Spesifikasi Sistem | Menjelaskan spesifikasi perangkat | Diajukan |
@@ -64,7 +63,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 40 |  |  | Bab V - Menjalankan Sistem | Cara menggunakan sistem | Diajukan |
 | 41 |  |  | Bab V - Black Box Testing | Menulis hasil pengujian | Diajukan |
 | 42 |  |  | Bab V - Komparatif Respons | Analisis hasil uji input identik | Diajukan |
-| 43 |  |  | Bab VI - Kesimpulan | Menulis kesimpulan penelitian | Diajukan |
+| 43 |Thifal Hasna Aulia Habibah|301220020| Bab VI - Kesimpulan | Menulis kesimpulan penelitian | Diajukan |
 | 44 |  |  | Bab VI - Saran | Menulis rekomendasi penelitian | Diajukan |
 | 45 |  |  | Daftar Pustaka (1) | Referensi teori dasar | Diajukan |
 | 46 |  |  | Daftar Pustaka (2) | Referensi hasil penelitian | Diajukan |
