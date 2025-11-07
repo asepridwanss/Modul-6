@@ -36,7 +36,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 12 |  |  | Bab I - Tujuan Penelitian | Menjelaskan tujuan utama | Diajukan |
 | 13 |  |  | Bab I - Metodologi Penelitian | Ringkasan metode dan pendekatan penelitian | Diajukan |
 | 14 |  |  | Bab I - Sistematika Penulisan | Menyusun struktur bab skripsi | Diajukan |
-| 15 |  |  | Bab II - Landasan Teori (1) | Menulis teori dasar terkait topik | Diajukan |
+| 15 | Risma Depa Yulianawati | 301220008  | Bab II - Landasan Teori (1) | Menulis teori dasar terkait topik | Diajukan |
 | 16 |  |  | Bab II - Landasan Teori (2) | Menambahkan teori pendukung | Diajukan |
 | 17 |  |  | Bab II - Dasar Teori (1) | Menulis teori teknis | Diajukan |
 | 18 |  |  | Bab II - Dasar Teori (2) | Menulis teori tambahan | Diajukan |
