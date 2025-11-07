@@ -31,7 +31,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 7 |  |  | Daftar Tabel | Membuat daftar tabel | Diajukan |
 | 8 |  |  | Daftar Lampiran | Membuat daftar lampiran | Diajukan |
 | 9 | Andhika Maulana Shiddiq | 301220024 | Bab I - Latar Belakang | Menjelaskan konteks penelitian | Disetujui ✅ |
-| 10 |  |  | Bab I - Rumusan Masalah | Menulis pertanyaan penelitian | Diajukan |
+| 10 | Jafar Siddik Aulia Rahman |  | Bab I - Rumusan Masalah | Menulis pertanyaan penelitian | Diajukan |
 | 11 |  |  | Bab I - Batasan Masalah | Menjelaskan batas ruang lingkup | Diajukan |
 | 12 |  |  | Bab I - Tujuan Penelitian | Menjelaskan tujuan utama | Diajukan |
 | 13 |  |  | Bab I - Metodologi Penelitian | Ringkasan metode dan pendekatan penelitian | Diajukan |
