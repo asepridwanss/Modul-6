@@ -48,7 +48,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 24 |  |  | Bab III - Pengkodean | Menjelaskan proses implementasi kode | Diajukan |
 | 25 |  |  | Bab III - Pengujian | Menjelaskan proses pengujian | Diajukan |
 | 26 |  |  | Bab III - Pelaporan | Menulis tahapan pelaporan hasil | Diajukan |
-| 27 |  |  | Bab IV - Analisis Masalah | Identifikasi kebutuhan pengguna | Diajukan |
+| 27 | M. Irfan Fadhlurrohman  | 301220023 | Bab IV - Analisis Masalah | Identifikasi kebutuhan pengguna | Diajukan |
 | 28 |  |  | Bab IV - Analisis Software | Spesifikasi software yang digunakan | Diajukan |
 | 29 |  |  | Bab IV - Analisis Pengguna | Profil dan kebutuhan pengguna | Diajukan |
 | 30 |  |  | Bab IV - UI/UX Design | Rancangan antarmuka sistem | Diajukan |
