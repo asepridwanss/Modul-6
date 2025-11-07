@@ -27,7 +27,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 1 | Asep Ridwan S | 301210001 | Halaman Judul & Cover | Menentukan judul, nama penulis, dan sampul skripsi | Diajukan |
 | 2 |  |  | Abstrak (Bahasa Indonesia) | Menulis ringkasan penelitian dalam Bahasa Indonesia | Diajukan |
 | 3 |  |  | Abstract (English) | Membuat versi Bahasa Inggris dari abstrak | Diajukan |
-| 4 |  |  | Kata Pengantar | Ucapan terima kasih dan latar belakang penulisan | Diajukan |
+| 4 | Kiki Ervin  | 301220053  | Kata Pengantar | Ucapan terima kasih dan latar belakang penulisan | Diajukan |
 | 5 |  |  | Daftar Isi | Menyusun struktur isi dokumen | Diajukan |
 | 6 |  |  | Daftar Gambar | Membuat daftar seluruh gambar | Diajukan |
 | 7 |  |  | Daftar Tabel | Membuat daftar tabel | Diajukan |
