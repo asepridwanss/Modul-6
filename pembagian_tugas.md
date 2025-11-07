@@ -20,9 +20,11 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 
 ## 📄 Tabel Pembagian Tugas
 
+"JUDUL: IMPLEMENTASI GITFLOW DALAM PROSES PENGEMBANGAN PERANGKAT LUNAK"
+
 | No | Nama Lengkap | NIM | Bagian Skripsi yang Diajukan | Deskripsi Singkat | Status |
 |----|---------------|------|------------------------------|-------------------|--------|
-| 1 |  |  | Halaman Judul & Cover | Menentukan judul, nama penulis, dan sampul skripsi | Diajukan |
+| 1 | Asep Ridwan S | 301210001 | Halaman Judul & Cover | Menentukan judul, nama penulis, dan sampul skripsi | Diajukan |
 | 2 |  |  | Abstrak (Bahasa Indonesia) | Menulis ringkasan penelitian dalam Bahasa Indonesia | Diajukan |
 | 3 |  |  | Abstract (English) | Membuat versi Bahasa Inggris dari abstrak | Diajukan |
 | 4 |  |  | Kata Pengantar | Ucapan terima kasih dan latar belakang penulisan | Diajukan |
