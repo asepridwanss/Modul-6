@@ -41,7 +41,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui *Pull Request (PR)* sebelum
 | 17 |  |  | Bab II - Dasar Teori (1) | Menulis teori teknis | Diajukan |
 | 18 |  |  | Bab II - Dasar Teori (2) | Menulis teori tambahan | Diajukan |
 | 19 |  |  | Bab III - Kerangka Pikir | Menjelaskan model berpikir penelitian | Diajukan |
-| 20 |  |  | Bab III - Identifikasi Masalah | Menguraikan masalah yang ditemukan | Diajukan |
+| 20 |Sofy Nur Kholifah|301220018| Bab III - Identifikasi Masalah | Menguraikan masalah yang ditemukan | Diajukan |
 | 21 |  |  | Bab III - Pengumpulan Data | Menulis metode pengumpulan data | Diajukan |
 | 22 |  |  | Bab III - Analisis | Menjelaskan tahapan analisis data | Diajukan |
 | 23 |  |  | Bab III - Desain | Menulis desain sistem | Diajukan |
