@@ -88,6 +88,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui _Pull Request (PR)_ sebelum
 | 58  |                           |           | Dokumentator 2                    | Menyusun rekap PR                                   | Diajukan     |
 | 59  |                           |           | Arsip Bukti                       | Menyimpan log & bukti PR                            | Diajukan     |
 | 60  |                           |           | Penutup & Pernyataan Orisinalitas | Halaman pernyataan akhir                            | Diajukan     |
+| 61 | Dechellya Assyya          | 301210055 | Halaman Judul & Cover             | Menentukan judul, nama penulis, dan sampul skripsi  | Diajukan     |
 
 ---
 
