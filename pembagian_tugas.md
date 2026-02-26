@@ -78,7 +78,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui _Pull Request (PR)_ sebelum
 | 48  |                           |           | Lampiran 2                        | Bukti screenshot GitHub                             | Diajukan     |
 | 49  |                           |           | Lampiran 3                        | Data mentah penelitian                              | Diajukan     |
 | 50  |                           |           | Lampiran 4                        | Template evaluasi                                   | Diajukan     |
-| 51  |                           |           | Editor 1                          | Penataan format dokumen                             | Diajukan     |
+| 51  | Vivi Widia                | 301220048    | Editor 1                          | Penataan format dokumen                             | Diajukan     |
 | 52  |                           |           | Editor 2                          | Pemeriksa ejaan dan bahasa                          | Diajukan     |
 | 53  |                           |           | Editor 3                          | Pemeriksa referensi                                 | Diajukan     |
 | 54  |                           |           | Merge Manager                     | Penyelesai konflik PR                               | Diajukan     |
