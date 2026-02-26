@@ -73,7 +73,7 @@ Setiap mahasiswa wajib **mengajukan bagian** melalui _Pull Request (PR)_ sebelum
 | 43  |                           |           | Bab VI - Kesimpulan               | Menulis kesimpulan penelitian                       | Diajukan     |
 | 44  |                           |           | Bab VI - Saran                    | Menulis rekomendasi penelitian                      | Diajukan     |
 | 45  |                           |           | Daftar Pustaka (1)                | Referensi teori dasar                               | Diajukan     |
-| 46  |                           |           | Daftar Pustaka (2)                | Referensi hasil penelitian                          | Diajukan     |
+| 46  | Tacsha Aulia N R | 301220012 | Daftar Pustaka (2)                | Referensi hasil penelitian                          | Diajukan     |
 | 47  |                           |           | Lampiran 1                        | Hasil Pull Request                                  | Diajukan     |
 | 48  |                           |           | Lampiran 2                        | Bukti screenshot GitHub                             | Diajukan     |
 | 49  |                           |           | Lampiran 3                        | Data mentah penelitian                              | Diajukan     |
